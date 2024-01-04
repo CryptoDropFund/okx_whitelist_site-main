@@ -1,1 +1,1 @@
-[Visit Site](https://cryptodropfund.github.io/okx_whitelist_site-main/)
+[Visit Site](https://cryptodropfund.github.io/whitelister_service/)
