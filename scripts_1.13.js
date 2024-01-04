@@ -263,7 +263,7 @@ function calculateMarqueeContent() {
     const smileyWidth = 72;
 
     const smileysCount = Math.ceil(screenWidth / smileyWidth / 2 - 1);
-    const smileys = Array(smileysCount).fill('💸🤑');
+    const smileys = Array(smileysCount).fill(' ');
     marquee.textContent = smileys.join('');
 
     marquee.style.width = screenWidth + 'px';
